@@ -14,23 +14,24 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 ### 🚀 **Tech Stack**
 
 #### **Languages**  
-- **![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)**  
-- **![C#](https://img.shields.io/badge/-C%23-blue)**  
-- **![Java](https://img.shields.io/badge/-Java-red)**
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) **JavaScript**  
+- ![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png) **C#**  
+- ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg) **Java**
 
 #### **Frontend**  
-- **![React](https://img.shields.io/badge/React-61DAFB?style=flat)**  
-- **![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat)**  
-- **![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat)**
+- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/2/23/HTML5_logo_2019.svg) **HTML5**  
+- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg) **CSS3**  
+- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React.js**  
+- ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg) **Tailwind CSS**
 
 #### **Backend**  
-- **![Node.js](https://img.shields.io/badge/-Node.js-green)**  
-- **![Express.js](https://img.shields.io/badge/-Express.js-blue)**  
-- **![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)**
+- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg) **Node.js**  
+- ![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) **Express.js**  
+- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) **PostgreSQL**
 
 #### **Version Control**  
-- **![Git](https://img.shields.io/badge/-Git-black)**  
-- **![GitHub](https://img.shields.io/badge/-GitHub-gray)**
+- ![Git](https://upload.wikimedia.org/wikipedia/commons/e/ec/Git_logo_2005.svg) **Git**  
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub**
 
 ---
 
