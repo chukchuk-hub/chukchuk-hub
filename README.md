@@ -14,25 +14,24 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 
 ### 🚀 **Tech Stack**
 
-**Languages**  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
-- ![C#](https://img.shields.io/badge/-C%23-blue)  
-- ![Java](https://img.shields.io/badge/-Java-red)  
+#### **Languages**  
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) | ![C#](https://img.shields.io/badge/-C%23-blue) | ![Java](https://img.shields.io/badge/-Java-red) |  
+| --- | --- | --- |  
+| ![Python](https://img.shields.io/badge/-Python-blue) | ![PHP](https://img.shields.io/badge/-PHP-blue) | ![Ruby](https://img.shields.io/badge/-Ruby-red) |
 
-**Frontend**  
-- ![HTML5](https://img.shields.io/badge/-HTML5-orange)  
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue)  
-- ![React.js](https://img.shields.io/badge/-React.js-blue)  
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue)
+#### **Frontend**  
+| ![HTML5](https://img.shields.io/badge/-HTML5-orange) | ![CSS3](https://img.shields.io/badge/-CSS3-blue) | ![React.js](https://img.shields.io/badge/-React.js-blue) |  
+| --- | --- | --- |  
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue) | ![Vue.js](https://img.shields.io/badge/-Vue.js-green) |
 
-**Backend**  
-- ![Node.js](https://img.shields.io/badge/-Node.js-green)  
-- ![Express.js](https://img.shields.io/badge/-Express.js-blue)  
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+#### **Backend**  
+| ![Node.js](https://img.shields.io/badge/-Node.js-green) | ![Express.js](https://img.shields.io/badge/-Express.js-blue) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) |  
+| --- | --- | --- |  
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-green) |
 
-**Version Control**  
-- ![Git](https://img.shields.io/badge/-Git-black)  
-- ![GitHub](https://img.shields.io/badge/-GitHub-gray)
+#### **Version Control**  
+| ![Git](https://img.shields.io/badge/-Git-black) | ![GitHub](https://img.shields.io/badge/-GitHub-gray) |  
+| --- | --- |  
 
 ---
 
