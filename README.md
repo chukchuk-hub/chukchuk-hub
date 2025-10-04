@@ -33,6 +33,7 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" width="25" height="25" /> **Git**  
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="25" height="25" /> **GitHub**
 
+
 ---
 
 ### 🌱 **Learning Goals**
