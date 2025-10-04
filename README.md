@@ -1,5 +1,4 @@
 # Louise David S. Lirio  
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue)](https://portfolio-five-vert-36.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Louise%20Lirio-blue)](https://www.linkedin.com/in/louise-lirio-49165a277/)  
 
@@ -14,22 +13,25 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 
 ### 🚀 **Tech Stack**
 
-| **Backend**        | **Frontend**      |
-| ------------------ | ----------------- |
-| ![Node.js](https://img.shields.io/badge/-Node.js-green)  | ![HTML5](https://img.shields.io/badge/-HTML5-orange)    |
-| ![Express.js](https://img.shields.io/badge/-Express.js-blue)  | ![CSS3](https://img.shields.io/badge/-CSS3-blue)    |
-| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)  | ![React.js](https://img.shields.io/badge/-React.js-blue) |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-green)    | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue) |
-|                    | ![Vue.js](https://img.shields.io/badge/-Vue.js-green)  |
+**Languages**  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+- ![C#](https://img.shields.io/badge/-C%23-blue)  
+- ![Java](https://img.shields.io/badge/-Java-red)
 
-| **Languages**      | **Version Control** |
-| ------------------ | ------------------- |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  | ![Git](https://img.shields.io/badge/-Git-black) |
-| ![C#](https://img.shields.io/badge/-C%23-blue)    | ![GitHub](https://img.shields.io/badge/-GitHub-gray) |
-| ![Java](https://img.shields.io/badge/-Java-red)    |                   |
-| ![Python](https://img.shields.io/badge/-Python-blue)  |                   |
-| ![PHP](https://img.shields.io/badge/-PHP-blue)    |                   |
-| ![Ruby](https://img.shields.io/badge/-Ruby-red)    |                   |
+**Frontend**  
+- ![HTML5](https://img.shields.io/badge/-HTML5-orange)  
+- ![CSS3](https://img.shields.io/badge/-CSS3-blue)  
+- ![React.js](https://img.shields.io/badge/-React.js-blue)  
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue)
+
+**Backend**  
+- ![Node.js](https://img.shields.io/badge/-Node.js-green)  
+- ![Express.js](https://img.shields.io/badge/-Express.js-blue)  
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+
+**Version Control**  
+- ![Git](https://img.shields.io/badge/-Git-black)  
+- ![GitHub](https://img.shields.io/badge/-GitHub-gray)
 
 ---
 
@@ -64,9 +66,3 @@ A **Node.js**, **Express.js**, **React.js**, and **PostgreSQL**-based applicatio
 - 🌐 **LinkedIn**: [Louise Lirio](https://www.linkedin.com/in/louise-lirio-49165a277/)
 - 🐱 **GitHub**: [chukchuk-hub](https://github.com/chukchuk-hub)  
 - 📝 **Portfolio**: [My Portfolio](https://portfolio-five-vert-36.vercel.app)
-
----
-
-### Fun fact
-
-I'm definitely not a cat person. 😄
