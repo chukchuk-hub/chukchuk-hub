@@ -4,12 +4,12 @@
 **A passionate Web Developer** with a focus on **JavaScript**, **C#**, and **backend technologies**.  
 Currently seeking an entry-level developer role to apply my skills in web development and contribute to impactful projects.
 
----
+--
 
 ## 🚀 **Technical Skills**
 
 ### **Programming Languages**
-- JavaScript (ES6+), C#
+- JavaScript, C#, Java
 
 ### **Front-End Development**
 - HTML5, CSS3, React.js, Tailwind CSS
@@ -23,10 +23,7 @@ Currently seeking an entry-level developer role to apply my skills in web develo
 ### **Tools & Platforms**
 - Postman (API testing), Microsoft Word, Excel, PowerPoint
 
-### **Soft Skills**
-- Problem-solving, Effective Communication, Teamwork, Collaboration
-
----
+--
 
 ## 🛠 **Technologies & Frameworks**
 
@@ -36,15 +33,15 @@ Currently seeking an entry-level developer role to apply my skills in web develo
 - **PostgreSQL**: Working with relational databases, including CRUD operations and query optimization.
 - **Git/GitHub**: Version control for collaboration and code management.
 
----
+--
 
 ## 🌱 **Learning Goals**
-- Deepening knowledge of **TypeScript** for more robust and maintainable code.
-- Exploring **Serverless** architecture and cloud computing (AWS, Google Cloud).
-- Building full-stack applications using **GraphQL**.
-- Exploring more about **Docker** and containerization for development.
+- Deepen knowledge of **TypeScript** for more robust and maintainable code.
+- Explore **Serverless** architecture and cloud computing (AWS, Google Cloud).
+- Build full-stack applications using **GraphQL**.
+- Explore about **Docker** and containerization for development.
 
----
+--
 
 ## 💡 **Projects**
 
@@ -57,14 +54,14 @@ A personal portfolio website built using **React** and **Tailwind CSS** to showc
 [GitHub Link](https://github.com/lalalala-rgb/banking-system)  
 A simple banking application using **C#** for managing accounts and transactions with object-oriented design principles.
 
----
+--
 
 ## **In-Development Project**
 
 ### **Learning Management System**
 A comprehensive **Learning Management System (LMS)** built with **Node.js**, **Express.js**, **React**, and **PostgreSQL** to help manage courses, assignments, and student progress. This platform provides various functionalities for both instructors and students.
 
----
+--
 
 ## 🌍 **Get in Touch**
 
