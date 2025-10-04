@@ -14,25 +14,24 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 ### 🚀 **Tech Stack**
 
 #### **Languages**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="25" height="25" /> **JavaScript**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" width="25" height="25" /> **C#**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" width="25" height="25" /> **Java**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### **Frontend**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="25" height="25" /> **HTML5**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="25" height="25" /> **CSS3**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="25" height="25" /> **React.js**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" width="25" height="25" /> **Tailwind CSS**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### **Backend**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nodedotjs.svg" width="25" height="25" /> **Node.js**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" width="25" height="25" /> **Express.js**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" width="25" height="25" /> **PostgreSQL**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### **Version Control**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" width="25" height="25" /> **Git**  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="25" height="25" /> **GitHub**
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
