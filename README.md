@@ -16,13 +16,13 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 #### **Languages**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" /> **JavaScript**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="20" /> **C#**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" width="20" /> **Java**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Java_logo.png" width="20" /> **Java**
 
 #### **Frontend**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/HTML5_logo_2019.svg" width="20" /> **HTML5**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg" width="20" /> **CSS3**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" /> **React.js**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg" width="20" /> **Tailwind CSS**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Tailwind_CSS_Logo.svg" width="20" /> **Tailwind CSS**
 
 #### **Backend**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" width="20" /> **Node.js**  
@@ -32,6 +32,7 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 #### **Version Control**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Git_logo_2005.svg" width="20" /> **Git**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" /> **GitHub**
+
 
 ---
 
