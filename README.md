@@ -21,4 +21,4 @@ Hi there! I'm Louise, a passionate **Web Developer** with a focus on **JavaScrip
 
 ## 📢 Get in Touch
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/louise-lirio-49165a277/)
-- Email: lilio325@gmail.com
+- Email: llirio325@gmail.com
