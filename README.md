@@ -1,5 +1,5 @@
 # Louise David S. Lirio  
-[Portfolio](https://portfolio-five-vert-36.vercel.app) | [LinkedIn](https://www.linkedin.com/in/louise-lirio)  
+[Portfolio](https://portfolio-five-vert-36.vercel.app) | [LinkedIn](https://www.linkedin.com/in/louise-lirio-49165a277/)  
 
 **A passionate Web Developer** with a focus on **JavaScript**, **C#**, and **backend technologies**.  
 Currently seeking an entry-level developer role to apply my skills in web development and contribute to impactful projects.
@@ -57,6 +57,6 @@ A comprehensive **Learning Management System (LMS)** built with **Node.js**, **E
 
 - 📧 **Email**: lilouise234@gmail.com
 - 📞 **Phone**: 09478667246
-- 🌐 **LinkedIn**: [Louise Lirio](https://www.linkedin.com/in/louise-lirio)
+- 🌐 **LinkedIn**: [Louise Lirio](https://www.linkedin.com/in/louise-lirio-49165a277/)
 - 🐱 **GitHub**: [lalalala-rgb](https://github.com/lalalala-rgb)
 - 📝 **Portfolio**: [My Portfolio](https://portfolio-five-vert-36.vercel.app)
