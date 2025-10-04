@@ -14,24 +14,24 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 ### 🚀 **Tech Stack**
 
 #### **Languages**  
-- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg) **JavaScript**  
-- ![C#](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg) **C#**  
-- ![Java](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg) **Java**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="25" height="25" /> **JavaScript**  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" width="25" height="25" /> **C#**  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" width="25" height="25" /> **Java**
 
 #### **Frontend**  
-- ![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg) **HTML5**  
-- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg) **CSS3**  
-- ![React.js](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg) **React.js**  
-- ![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg) **Tailwind CSS**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="25" height="25" /> **HTML5**  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="25" height="25" /> **CSS3**  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="25" height="25" /> **React.js**  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" width="25" height="25" /> **Tailwind CSS**
 
 #### **Backend**  
-- ![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nodedotjs.svg) **Node.js**  
-- ![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg) **Express.js**  
-- ![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg) **PostgreSQL**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nodedotjs.svg" width="25" height="25" /> **Node.js**  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" width="25" height="25" /> **Express.js**  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" width="25" height="25" /> **PostgreSQL**
 
 #### **Version Control**  
-- ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg) **Git**  
-- ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg) **GitHub**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" width="25" height="25" /> **Git**  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="25" height="25" /> **GitHub**
 
 ---
 
