@@ -13,24 +13,24 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 
 ### 🚀 **Tech Stack**
 
-**Languages**  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
-- ![C#](https://img.shields.io/badge/-C%23-blue)  
-- ![Java](https://img.shields.io/badge/-Java-red)
+#### **Languages**  
+- **![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)**  
+- **![C#](https://img.shields.io/badge/-C%23-blue)**  
+- **![Java](https://img.shields.io/badge/-Java-red)**
 
-**Frontend**  
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+#### **Frontend**  
+- **![React](https://img.shields.io/badge/React-61DAFB?style=flat)**  
+- **![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat)**  
+- **![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat)**
 
-**Backend**  
-- ![Node.js](https://img.shields.io/badge/-Node.js-green)  
-- ![Express.js](https://img.shields.io/badge/-Express.js-blue)  
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+#### **Backend**  
+- **![Node.js](https://img.shields.io/badge/-Node.js-green)**  
+- **![Express.js](https://img.shields.io/badge/-Express.js-blue)**  
+- **![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)**
 
-**Version Control**  
-- ![Git](https://img.shields.io/badge/-Git-black)  
-- ![GitHub](https://img.shields.io/badge/-GitHub-gray)
+#### **Version Control**  
+- **![Git](https://img.shields.io/badge/-Git-black)**  
+- **![GitHub](https://img.shields.io/badge/-GitHub-gray)**
 
 ---
 
