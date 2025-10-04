@@ -1,62 +1,70 @@
 # Louise David S. Lirio  
-[Portfolio](https://portfolio-five-vert-36.vercel.app) | [LinkedIn](https://www.linkedin.com/in/louise-lirio-49165a277/)  
 
-**A passionate Web Developer** with a focus on **JavaScript**, **C#**, and **backend technologies**.  
-Currently seeking an entry-level developer role to apply my skills in web development and contribute to impactful projects.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue)](https://portfolio-five-vert-36.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louise%20Lirio-blue)](https://www.linkedin.com/in/louise-lirio-49165a277/)  
 
-## 🚀 **Technical Skills**
+---
 
-### **Programming Languages**
-- JavaScript, C#, Java
+### Hi there 👋
 
-### **Front-End Development**
-- HTML5, CSS3, React.js, Tailwind CSS
+I'm a passionate Web Developer with a focus on **JavaScript**, **C#**, and **backend technologies**.  
+Currently seeking an entry-level developer role to apply my skills and contribute to impactful projects.
 
-### **Back-End Development**
-- Node.js, Express.js, PostgreSQL
+---
 
-### **Version Control**
-- Git, GitHub
+### 🚀 **Tech Stack**
 
-### **Tools & Platforms**
-- Postman (API testing), Microsoft Word, Excel, PowerPoint
+**Languages**  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+- ![C#](https://img.shields.io/badge/-C%23-blue)  
+- ![Java](https://img.shields.io/badge/-Java-red)  
 
-## 🛠 **Technologies & Frameworks**
+**Frontend**  
+- ![HTML5](https://img.shields.io/badge/-HTML5-orange)  
+- ![CSS3](https://img.shields.io/badge/-CSS3-blue)  
+- ![React.js](https://img.shields.io/badge/-React.js-blue)  
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue)
 
-- **React.js**: Building dynamic single-page applications (SPAs).
-- **Tailwind CSS**: Styling with a utility-first CSS framework.
-- **Node.js & Express.js**: Developing server-side applications and APIs.
-- **PostgreSQL**: Working with relational databases, including CRUD operations and query optimization.
-- **Git/GitHub**: Version control for collaboration and code management.
+**Backend**  
+- ![Node.js](https://img.shields.io/badge/-Node.js-green)  
+- ![Express.js](https://img.shields.io/badge/-Express.js-blue)  
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 
-## 🌱 **Learning Goals**
-- Deepen knowledge of **TypeScript** for more robust and maintainable code.
+**Version Control**  
+- ![Git](https://img.shields.io/badge/-Git-black)  
+- ![GitHub](https://img.shields.io/badge/-GitHub-gray)
+
+---
+
+### 🌱 **Learning Goals**
+
+- Deepen my knowledge of **TypeScript** for more robust code.
 - Explore **Serverless** architecture and cloud computing (AWS, Google Cloud).
-- Build full-stack applications using **GraphQL**.
-- Explore about **Docker** and containerization for development.
+- Build full-stack apps using **GraphQL**.
+- Learn **Docker** and containerization for more efficient development workflows.
 
-## 💡 **Projects**
+---
 
-### **Portfolio**
-[Portfolio Website](https://portfolio-five-vert-36.vercel.app)  
-A personal portfolio website built using **React** and **Tailwind CSS** to showcase projects, skills, and personal achievements.
+### 💡 **Featured Projects**
 
+#### **Portfolio Website**  
+[![View Project](https://img.shields.io/badge/Portfolio-View%20Website-blue)](https://portfolio-five-vert-36.vercel.app)  
+A personal portfolio showcasing my skills, projects, and achievements. Built with **React.js** and **Tailwind CSS**.
 
-### **Banking System**  
-[GitHub Link](https://github.com/lalalala-rgb/banking-system)  
-A simple banking application using **C#** for managing accounts and transactions with object-oriented design principles.
+#### **Banking System**  
+[![GitHub Link](https://img.shields.io/badge/GitHub-Banking%20System-blue)](https://github.com/lalalala-rgb/banking-system)  
+A **C#**-based banking app for managing accounts and transactions with OOP design principles.
 
+#### **Learning Management System (In Progress)**  
+A **Node.js**, **Express.js**, **React.js**, and **PostgreSQL**-based application for managing courses and student progress.
 
-## **In-Development Project**
+---
 
-### **Learning Management System**
-A comprehensive **Learning Management System (LMS)** built with **Node.js**, **Express.js**, **React**, and **PostgreSQL** to help manage courses, assignments, and student progress. This platform provides various functionalities for both instructors and students.
+### 🌍 **Let's Connect**
 
-
-## 🌍 **Get in Touch**
-
-- 📧 **Email**: lilouise234@gmail.com
-- 📞 **Phone**: 09478667246
+- 📧 **Email**: [lilouise234@gmail.com](mailto:lilouise234@gmail.com)
+- 📞 **Phone**: 09478667246  
 - 🌐 **LinkedIn**: [Louise Lirio](https://www.linkedin.com/in/louise-lirio-49165a277/)
-- 🐱 **GitHub**: [chukchuk-hub](https://github.com/chukchuk-hub)
+- 🐱 **GitHub**: [chukchuk-hub](https://github.com/chukchuk-hub)  
 - 📝 **Portfolio**: [My Portfolio](https://portfolio-five-vert-36.vercel.app)
+
