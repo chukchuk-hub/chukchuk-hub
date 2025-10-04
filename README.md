@@ -1,16 +1,24 @@
-## Hi there 👋
+# Louise Lirio 👨‍💻 | Web Developer
 
-<!--
-**lalalala-rgb/lalalala-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hi there! I'm Louise, a passionate **Web Developer** with a focus on **JavaScript** and **C#**. I'm constantly learning and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Projects:
+### 📂 Portfolio
+- A showcase of my personal projects and web development skills.  
+- **Tech Stack**: JavaScript, HTML, CSS, React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏦 BankSystem
+- A simple banking system built with **C#** to understand OOP principles and database management.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalalala-rgb&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 🛠 Skills
+- JavaScript (React, Node.js)
+- C#
+- HTML/CSS
+
+## 📢 Get in Touch
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/louise-lirio-49165a277/)
+- Email: lilio325@gmail.com
