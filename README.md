@@ -19,10 +19,12 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 - ![Java](https://img.shields.io/badge/-Java-red)
 
 **Frontend**  
-- ![HTML5](https://img.shields.io/badge/-HTML5-orange)  
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue)  
-- ![React.js](https://img.shields.io/badge/-React.js-blue)  
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+- ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white)  
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 **Backend**  
 - ![Node.js](https://img.shields.io/badge/-Node.js-green)  
