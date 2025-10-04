@@ -58,5 +58,5 @@ A comprehensive **Learning Management System (LMS)** built with **Node.js**, **E
 - 📧 **Email**: lilouise234@gmail.com
 - 📞 **Phone**: 09478667246
 - 🌐 **LinkedIn**: [Louise Lirio](https://www.linkedin.com/in/louise-lirio-49165a277/)
-- 🐱 **GitHub**: [lalalala-rgb](https://github.com/lalalala-rgb)
+- 🐱 **GitHub**: [chukchuk-hub](https://github.com/chukchuk-hub)
 - 📝 **Portfolio**: [My Portfolio](https://portfolio-five-vert-36.vercel.app)
