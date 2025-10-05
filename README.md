@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I love developing websites with a focus on **JavaScript**, **C#**, and **backend technologies**.  
+I love developing websites focused on **JavaScript**, **C#**, and **backend technologies**.  
 
 ---
 
