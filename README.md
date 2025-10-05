@@ -6,8 +6,7 @@
 
 ### Hi there 👋
 
-I'm a passionate Web Developer with a focus on **JavaScript**, **C#**, and **backend technologies**.  
-Currently seeking an entry-level developer role to apply my skills and contribute to impactful projects.
+I love developing websites with a focus on **JavaScript**, **C#**, and **backend technologies**.  
 
 ---
 
@@ -37,7 +36,7 @@ Currently seeking an entry-level developer role to apply my skills and contribut
 
 ### 🌱 **Learning Goals**
 
-- Deepen my knowledge of **TypeScript** for more robust code.
+- Deepen my knowledge of **TypeScript**.
 - Explore **Serverless** architecture and cloud computing (AWS, Google Cloud).
 - Build full-stack apps using **GraphQL**.
 - Learn **Docker** and containerization for more efficient development workflows.
